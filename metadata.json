@@ -1,0 +1,6 @@
+{
+  "name": "Candy Match",
+  "description": "經典三消糖果益智遊戲，支援特殊條紋糖、彩虹炸彈、連鎖Combo與關卡挑戰。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
